@@ -1,0 +1,25 @@
+Router>enable
+Router#show running-config
+Building configuration...
+
+Current configuration : 1289 bytes
+!
+version 15.1
+no service timestamps log datetime msec
+no service timestamps debug datetime msec
+no service password-encryption
+!
+hostname Router
+!
+!
+!
+!
+!
+ip dhcp pool POOL_ADMIN
+ network 192.168.10.0 255.255.255.0
+ default-router 192.168.10.1
+ dns-server 8.8.8.8
+ip dhcp pool POOL_TI
+ network 192.168.20.0 255.255.255.0
+ default-router 192.168.20.1
+ --More-- 
