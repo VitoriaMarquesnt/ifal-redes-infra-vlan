@@ -27,8 +27,8 @@ A rede foi estruturada utilizando endereçamento Classe C (`192.168.x.x`) com m�
 | **Recursos Humanos** | `30` | `192.168.30.0/24` | `192.168.30.1` | `.10` a `.254` |
 
 ### Diagrama da Topologia
-![Uploading Captura de tela 2025-12-02 111040.png…]()
 
+![Diagrama de Topologia](./assets/topologia-física.png)
 
 ## ⚙️ Configurações Técnicas
 
