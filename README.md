@@ -27,8 +27,8 @@ A rede foi estruturada utilizando endereçamento Classe C (`192.168.x.x`) com m�
 | **Recursos Humanos** | `30` | `192.168.30.0/24` | `192.168.30.1` | `.10` a `.254` |
 
 ### Diagrama da Topologia
-![Topologia da Rede](./assets/topologia-rede.png)
-*(Adicione aqui o print da sua tela do Packet Tracer mostrando os dispositivos conectados)*
+![Uploading Captura de tela 2025-12-02 111040.png…]()
+
 
 ## ⚙️ Configurações Técnicas
 
@@ -58,4 +58,4 @@ Confirmação de que os hosts estão recebendo endereços IP, Máscara e Gateway
 1. Instale o [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer).
 2. Clone este repositório:
    ```bash
-   git clone [https://github.com/SEU-USUARIO/ifal-redes-infra-vlan.git](https://github.com/SEU-USUARIO/ifal-redes-infra-vlan.git)
+   [git clone [https://github.com/SEU-USUARIO/ifal-redes-infra-vlan.git](https://github.com/SEU-USUARIO/ifal-redes-infra-vlan.git)](https://github.com/VitoriaMarquesnt/ifal-redes-infra-vlan.git)
