@@ -45,7 +45,7 @@ A rede foi estruturada utilizando endereçamento Classe C (`192.168.x.x`) com m�
 ## 🧪 Testes e Evidências
 
 ### 1. Teste de Conectividade (Ping)
-Teste realizado do **PC-ADMIN (VLAN 10)** para o **PC-TI (VLAN 20)**, comprovando o roteamento entre redes diferentes.
+Teste realizado do **PC-ADMIN (VLAN 10)** para o **PC-TI (VLAN 20)** e **PC-RH (VLAN 30)**, comprovando o roteamento entre redes diferentes.
 
 ![Teste de Ping](./assets/teste-ping-admin.jpg)
 
