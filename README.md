@@ -58,4 +58,4 @@ Confirmação de que os hosts estão recebendo endereços IP, Máscara e Gateway
 1. Instale o [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer).
 2. Clone este repositório:
    ```bash
-   [git clone [https://github.com/SEU-USUARIO/ifal-redes-infra-vlan.git](https://github.com/SEU-USUARIO/ifal-redes-infra-vlan.git)](https://github.com/VitoriaMarquesnt/ifal-redes-infra-vlan.git)
+   git clone https://github.com/VitoriaMarquesnt/ifal-redes-infra-vlan.git
