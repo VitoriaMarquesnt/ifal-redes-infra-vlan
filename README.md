@@ -47,7 +47,7 @@ A rede foi estruturada utilizando endereçamento Classe C (`192.168.x.x`) com m�
 ### 1. Teste de Conectividade (Ping)
 Teste realizado do **PC-ADMIN (VLAN 10)** para o **PC-TI (VLAN 20)**, comprovando o roteamento entre redes diferentes.
 
-![Teste de Ping](./assets/teste-ping-admin.png)
+![Teste de Ping](./assets/teste-ping-admin.jpg)
 
 ### 2. Obtenção de IP (DHCP)
 Confirmação de que os hosts estão recebendo endereços IP, Máscara e Gateway automaticamente.
